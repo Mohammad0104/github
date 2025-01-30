@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Profile 👋
 
-![Tech Stack Image](https://media.discordapp.net/attachments/1076299158480236627/1334333058987331626/00fda270-63c9-49af-9992-35407841aa7a.jpg)
+![Tech Stack Image](https://i.imgur.com/yourimage.jpg)
 
 
 I am a Computer Science student with a strong focus on data science, software engineering, and web development. I am passionate about leveraging technology to solve real-world problems and create innovative solutions. With a keen interest in data analysis, machine learning, and software development, I aim to develop well-rounded skills that can be applied across various domains. I am actively engaged in projects that allow me to expand my knowledge and contribute to meaningful advancements in these fields. Let's connect and explore how we can collaborate and drive impactful outcomes.
