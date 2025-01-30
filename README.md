@@ -8,11 +8,11 @@ As a skilled analyst with robust data science and analysis expertise, I excel at
 
 ## 📚 About Me
 
-- 👨‍💻 Full-Stack Developer / [Any specific role like Machine Learning Enthusiast]
-- 🧑‍🏫 Mentor at [platform or initiative] and Open-Source Contributor
-- ✍️ Technical Writer for [platform or blog]
-- 🌱 Currently focused on learning **[current skills or tech]**.
-- 💼 Exploring opportunities in **[desired career field]**.
+- 👨‍💻 Software Engineer & Full-Stack Web Developer with a passion for Data Science and Data Analysis
+- 🧑‍🏫 Mentor in [Platform or Initiative] and Open-Source Contributor
+- ✍️ Technical Writer focusing on [Platform or Blog] related to data science, web development, and software engineering
+- 🌱 Currently expanding my skills in **Data Science**, **Web Development**, and **Data Analysis**.
+- 💼 Actively exploring opportunities in **Data Science**, **Software Engineering**, and **Web Development**.
 
 ---
 
@@ -48,37 +48,6 @@ Check out my [full blog](link-to-blog).
 
 You can reach me here:
 
-- [LinkedIn](link-to-your-linkedin)
-- [Twitter](link-to-your-twitter)
-- [Portfolio](link-to-your-portfolio)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](www.linkedin.com/in/mohammad-mohammad-a74b83188)
+- [Email](mohammad040199ctg@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true)
-
----
-
-## 🎯 Current Learning
-
-- **Deepening my knowledge in Machine Learning and AI.**
-- **Exploring advanced React.js patterns and state management techniques.**
-- **Improving my skills in cloud computing with AWS and Azure.**
-
----
-
-## 🛠️ Achievements & Highlights
-
-- 🏆 [Achievement 1]
-- 🌟 [Achievement 2]
-- 🏅 [Highlight or Milestone]
-
----
-
-## 🔗 More About Me
-
-- Visit my [Portfolio](link-to-portfolio) to see my work.
-- Check out my [LinkedIn](link-to-linkedin) to connect professionally.
-- View my [Resume](link-to-resume) for my detailed career history.
