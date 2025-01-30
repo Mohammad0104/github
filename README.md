@@ -2,14 +2,15 @@
 
 ![Profile Banner](https://media.discordapp.net/attachments/1076299158480236627/1334324511801081957/12620f98-65e5-451d-b926-eb6ee7e4c9ad.jpg?ex=679c1e0a&is=679acc8a&hm=ac2ffe7146e1bd111f0eb94a3afa76a17428868902c30781505170370989b899&=&format=webp&width=460&height=613)
 
-As a skilled analyst with robust data science and analysis expertise, I excel at extracting insights that drive strategic decision-making and spur innovation. Proficient in statistical analysis, machine learning, and data visualization, I transform complex datasets into actionable intelligence that strategically informs business decisions and tackles real-world challenges. Currently advancing towards a Bachelor’s degree in Computer Science, with an expected graduation in April 2025, I am deeply engaged in projects highlighting my analytical prowess and dedication to continuous learning. I am keen to collaborate with professionals looking to harness data science and analysis for transformative outcomes. Let’s connect to explore how we can drive value together.
+I am a Computer Science student with a strong focus on data science, software engineering, and web development. I am passionate about leveraging technology to solve real-world problems and create innovative solutions. With a keen interest in data analysis, machine learning, and software development, I aim to develop well-rounded skills that can be applied across various domains. I am actively engaged in projects that allow me to expand my knowledge and contribute to meaningful advancements in these fields. Let's connect and explore how we can collaborate and drive impactful outcomes.
 ---
-## 📚 About Me
-- 👨‍💻 Software Engineer & Full-Stack Web Developer with a passion for Data Science and Data Analysis
-- 🧑‍🏫 Mentor in [Platform or Initiative] and Open-Source Contributor
-- ✍️ Technical Writer focusing on [Platform or Blog] related to data science, web development, and software engineering
-- 🌱 Currently expanding my skills in **Data Science**, **Web Development**, and **Data Analysis**.
-- 💼 Actively exploring opportunities in **Data Science**, **Software Engineering**, and **Web Development**.
+## 🛠️ Tech Stack
+
+- **Languages**: C++, Python, Java, JavaScript, Lua, HTML5, CSS3
+- **Frameworks & Libraries**: React, Spring, Pandas, NumPy, Matplotlib, SciPy
+- **Tools**: Powershell, Netlify, Vercel, Anaconda, LaTeX
+- **Other**: Portfolio
+
 ---
 
 ## 🛠️ Tech Stack
