@@ -48,6 +48,6 @@ Check out my [full blog](link-to-blog).
 
 You can reach me here:
 
-- [LinkedIn](www.linkedin.com/in/mohammad-mohammad-a74b83188)
-- [Email](mohammad040199ctg@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mohammad-mohammad-a74b83188)
+- [Email](mailto:mohammad040199ctg@gmail.com)
 
