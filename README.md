@@ -1,6 +1,6 @@
 # 🚀 Hello World! Welcome to My Profile 👋
 
-![Profile Banner](![1738114456430](https://github.com/user-attachments/assets/9ad6bdaf-196b-4c6f-85dc-097d58550cf0)
+![Profile Banner](![image](https://github.com/user-attachments/assets/a7cae427-4be5-42b3-b471-69ef9ee8bfee)
 )
 
 As a skilled analyst with robust data science and analysis expertise, I excel at extracting insights that drive strategic decision-making and spur innovation. Proficient in statistical analysis, machine learning, and data visualization, I transform complex datasets into actionable intelligence that strategically informs business decisions and tackles real-world challenges. Currently advancing towards a Bachelor’s degree in Computer Science, with an expected graduation in April 2025, I am deeply engaged in projects highlighting my analytical prowess and dedication to continuous learning. I am keen to collaborate with professionals looking to harness data science and analysis for transformative outcomes. Let’s connect to explore how we can drive value together.
