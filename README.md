@@ -20,11 +20,14 @@ As a skilled analyst with robust data science and analysis expertise, I excel at
 
 Here are some of the tools and technologies I work with:
 
-- **Languages**: JavaScript, Python, C++, Java, etc.
-- **Frontend**: React, Vue, HTML, CSS, etc.
-- **Backend**: Node.js, Express, Django, Flask
-- **Database**: PostgreSQL, MongoDB, MySQL
-- **Tools**: Git, Docker, AWS, Azure, etc.
+- **Languages**: C, C++, Java, Python, Dart, R, Kotlin, Clojure, HTML, JavaScript, CS
+- **Testing**: Pytest, Postman
+- **Firmware**: Node.js, Flutter
+- **Developer Tools**: Git, VS Code, Visual Studio, Android Studio, Docker, Linux, IntelliJ
+- **Libraries**: Pandas, NumPy, Unittest
+- **Database**: PostgreSQL, SQL, MongoDB
+- **Design**: Figma, Adobe Illustrator
+- **Administration Tool**: Office 365
 
 ![Tech Stack Image](link-to-your-tech-stack-image)
 
