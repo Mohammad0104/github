@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Profile 👋
 
-![Profile Banner](![image](https://github.com/user-attachments/assets/29ee2ed9-3c49-47fe-ac45-c413a23ee2d5)
+[image](https://github.com/user-attachments/assets/29ee2ed9-3c49-47fe-ac45-c413a23ee2d5)
 
 I am a Computer Science student with a strong focus on data science, software engineering, and web development. I am passionate about leveraging technology to solve real-world problems and create innovative solutions. With a keen interest in data analysis, machine learning, and software development, I aim to develop well-rounded skills that can be applied across various domains. I am actively engaged in projects that allow me to expand my knowledge and contribute to meaningful advancements in these fields. Let's connect and explore how we can collaborate and drive impactful outcomes.
 
