@@ -1,7 +1,6 @@
 # 🚀 Hello World! Welcome to My Profile 👋
 
 ![Profile Banner](https://media.discordapp.net/attachments/1076299158480236627/1334324511801081957/12620f98-65e5-451d-b926-eb6ee7e4c9ad.jpg?ex=679c1e0a&is=679acc8a&hm=ac2ffe7146e1bd111f0eb94a3afa76a17428868902c30781505170370989b899&=&format=webp&width=460&height=613)
-)
 
 As a skilled analyst with robust data science and analysis expertise, I excel at extracting insights that drive strategic decision-making and spur innovation. Proficient in statistical analysis, machine learning, and data visualization, I transform complex datasets into actionable intelligence that strategically informs business decisions and tackles real-world challenges. Currently advancing towards a Bachelor’s degree in Computer Science, with an expected graduation in April 2025, I am deeply engaged in projects highlighting my analytical prowess and dedication to continuous learning. I am keen to collaborate with professionals looking to harness data science and analysis for transformative outcomes. Let’s connect to explore how we can drive value together.
 
