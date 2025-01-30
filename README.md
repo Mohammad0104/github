@@ -1,6 +1,6 @@
 # 🚀 Hello World! Welcome to My Profile 👋
 
-![Profile Banner](link-to-your-banner-image)
+![Profile Banner](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
 
 Hi there! I'm **[Your Name]**, a **[Your Role/Profession]** from **[Your Location]**. I am passionate about [technologies you're interested in, like web development, machine learning, etc.]. Here’s a little about me:
 
